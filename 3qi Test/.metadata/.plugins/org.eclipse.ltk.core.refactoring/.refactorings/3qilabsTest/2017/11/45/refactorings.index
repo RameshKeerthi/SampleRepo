@@ -1,0 +1,12 @@
+1510407272040	Rename type 'MainPage'
+1510408499698	Rename type 'LaunchURL'
+1510408598672	Rename type 'ChromeDriver'
+1510408800352	Rename compilation unit 'Chrome.java'
+1510409005821	Rename type 'ChromeBrowser'
+1510409352562	Rename package 'PageElements'
+1510409490208	Rename type 'SearchUsingExcel'
+1510409620943	Delete element
+1510410981486	Rename package 'WaitForElemts'
+1510411277392	Rename type 'WaitForElement'
+1510412045692	Rename compilation unit 'ElementsActions.java'
+1510412357208	Rename type 'SelectActions'
